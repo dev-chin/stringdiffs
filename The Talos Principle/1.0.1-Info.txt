@@ -1,0 +1,12 @@
+Name: The Talos Principle
+Editor: Devolver Digital
+Version: 65536
+Display Version: 1.0.1
+Meta SDK version: 9.3.0.0
+Program SDK version: 6.5.2.0
+Engine: Serious Engine 4
+
+Required Firmware:
+RequiredSystemVersion: 9.0.0
+Encryption (keygeneration): 8 -> (7.0.0 - 8.0.1)
+Patchable to: 7.0.0
